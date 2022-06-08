@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(175, 115, 177);
+}
+
+.img {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 15px;
+  border-color: white;
+  position: sticky;
+  padding: 1px;
+  margin: 2px;
+  top: -10%;
+}
+
+.ul {
+  column-count: 4;
+  list-style-type: none;
+  position: relative;
+  text-align: center;
+  font-family: sans-serif;
+  color: rgb(175, 115, 177);
+  font-size: large;
+}
+.button {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: small;
+  color: rgb(175, 115, 177);
+  background-color: rgba(010, 111, 111, 0.2);
+  border-color: rgba(010, 111, 111, 0.2);
+}
